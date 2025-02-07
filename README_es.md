@@ -1,5 +1,3 @@
-Aquí tienes el documento con los mismos emojis en castellano:
-
 # EscoitaTECH 👂: Detección de Fallas en Máquinas Soplantes de Depuradoras mediante IA 🚰🤖
 
 ## Introducción 🌱
