@@ -1,5 +1,3 @@
-Here's your project summary with some added emojis:
-
 # EscoitaTECH 👂: AI-Based Fault Detection in Blower Machines for Wastewater Treatment Plants 🚰🤖
 
 ## Introduction 🌱
